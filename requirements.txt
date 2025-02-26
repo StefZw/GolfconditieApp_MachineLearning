@@ -1,0 +1,8 @@
+pandas
+pyspark
+spark
+matplotlib
+sklearn
+imbalanced-learn
+memory_profiler
+requests
